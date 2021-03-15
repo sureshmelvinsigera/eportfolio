@@ -494,6 +494,9 @@ body #loader.preloader-bg .progress {background: #ececec; }
 .logo {
     padding: 0;
     width: 100px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #000;
 }
 /* Mobile Menu */
 .box-mobile-menu-open .body-overlay {
